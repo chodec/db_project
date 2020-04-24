@@ -8138,7 +8138,7 @@ body {
   line-height: 1.8;
   font-weight: normal;
   background: #fff;
-  color: gray; }
+  color: black; }
 
 a {
   -webkit-transition: .3s all ease;
@@ -8368,3 +8368,12 @@ a[data-toggle="collapse"] {
 
 .subscribe-form .form-control {
   background: #4897fc; }
+.sidebar_hr{
+  height: 10px;
+	border: 0;
+	box-shadow: 0 10px 10px -10px #8c8b8b inset;
+}
+.fa{
+  max-width: 9px;
+  padding-right: 20px;
+}
